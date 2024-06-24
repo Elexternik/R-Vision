@@ -26,5 +26,7 @@ FilePath: /etc/redhat-release
 
 4. Id, Title, Discription, Criteria, Severity
 
+5. Task.py парсит xml по его (патчам) собирая необходимую информацию об уязвимости
+6. ForObjects.py я постарался сделать программу, которая будет парсить <objects> и выводить необходимую информацию
 
 
