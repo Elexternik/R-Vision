@@ -1,5 +1,5 @@
 # R-Vision
-
+'''
 1. OVAL файлы содержат секции (<definitions> <tests> <objects> <states>)
 	Элементы red-def: rpminfo_object
 	         red:def: rpmverifyfile_object
@@ -27,3 +27,4 @@ FilePath: /etc/redhat-release
 3. Все перечисленные в <advisory> кроме <severity>
 
 4. Id, Title, Discription, Criteria, Severity
+'''
