@@ -24,6 +24,6 @@ ID: oval:com.redhat.rhba:obj:20191992002
 Version: 635
 FilePath: /etc/redhat-release
 
-3. Все перечисленные в <advisory>^ кроме <severity>
+3. Все перечисленные в <advisory> кроме <severity>
 
 4. Id, Title, Discription, Criteria, Severity
