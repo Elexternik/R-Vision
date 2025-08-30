@@ -1,3 +1,4 @@
+"""New comment"""
 import xml.etree.ElementTree as ET
 
 def parse_oval_objects(file_path):
